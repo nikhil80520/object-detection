@@ -1,4 +1,4 @@
-##🖐 Sign Language Detection with YOLOv5 🚀
+Sign Language Detection with YOLOv5 🚀
 
 Overview
 This project focuses on real-time sign language detection using the YOLOv5 object detection model. By leveraging a robust dataset annotated with Roboflow, the model can detect and classify various sign language gestures, providing a helpful tool for sign language interpretation.
